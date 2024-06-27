@@ -22,7 +22,7 @@ html {
 
 @layer base {
   body {
-    @apply bg-blue-950 text-gray-100;
+    @apply bg-green-950 text-gray-100;
   }
 
   .input {
