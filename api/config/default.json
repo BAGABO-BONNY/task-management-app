@@ -1,0 +1,11 @@
+{
+  "server": {
+    "database": {
+      "url": ""
+    },
+    "tokens": {
+      "TokenSecret": "0fad3c37f26966bf83cb090acbf3265537525a252cc3260ab5091795ae2f5b31",
+      "refresh_token_secret": "6d3f04575b61769a967af18dce0280db699d20c0ec9d6b1226b752df55c51c54"
+    }
+  }
+}
